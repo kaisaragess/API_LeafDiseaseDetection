@@ -1,0 +1,13 @@
+pipeline,perturbation,clean_macro_f1,perturbed_macro_f1,f1_drop
+B0,Brightness -20%,0.7642,0.5312,-0.2330
+B1,Brightness -20%,0.8124,0.7494,-0.0630
+B2,Brightness -20%,0.8340,0.7250,-0.1090
+P1,Brightness -20%,0.8965,0.8705,-0.0260
+B0,Brightness +20%,0.7642,0.5820,-0.1822
+B1,Brightness +20%,0.8124,0.7610,-0.0514
+B2,Brightness +20%,0.8340,0.7510,-0.0830
+P1,Brightness +20%,0.8965,0.8755,-0.0210
+B0,Gaussian Blur,0.7642,0.6120,-0.1522
+B1,Gaussian Blur,0.8124,0.7540,-0.0584
+B2,Gaussian Blur,0.8340,0.7680,-0.0660
+P1,Gaussian Blur,0.8965,0.8790,-0.0175

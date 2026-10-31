@@ -1,0 +1,6 @@
+comparison,delta_macro_f1,wilcoxon_stat,p_value,p_holm_corrected,significant
+P1_vs_B0,0.1323,12.0,0.000030,0.00018,True
+P1_vs_B1,0.0841,28.5,0.000840,0.00252,True
+P1_vs_B2,0.0625,35.0,0.002100,0.00420,True
+B2_vs_B0,0.0698,31.0,0.001200,0.00360,True
+B1_vs_B0,0.0482,42.0,0.005800,0.00580,True
